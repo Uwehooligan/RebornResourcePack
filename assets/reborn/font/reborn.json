@@ -1,0 +1,17 @@
+﻿{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "reborn:font/reborn.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "ABCDEFGHIJKLMNOP",
+        "QRSTUVWXYZabcdef",
+        "ghijklmnopqrstuv",
+        "wxyz0123456789.,",
+        ":;!?-+/()[]$%*# "
+      ]
+    }
+  ]
+}
